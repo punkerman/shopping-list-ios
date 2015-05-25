@@ -1,0 +1,13 @@
+PODS:
+  - ObjectMapper (0.10)
+  - SwiftHTTP (0.9.4)
+
+DEPENDENCIES:
+  - ObjectMapper (~> 0.10)
+  - SwiftHTTP (~> 0.9.2)
+
+SPEC CHECKSUMS:
+  ObjectMapper: 611c411d3434485c8374000a028de87be1b6038d
+  SwiftHTTP: c2f880b1723e6e97c31517dab29a1b5c0bc1f49d
+
+COCOAPODS: 0.36.3
